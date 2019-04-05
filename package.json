@@ -1,10 +1,10 @@
 {
   "name": "dialogflowFirebaseFulfillment",
-  "description": "Today in History fulfillment for a Dialogflow agents using Cloud Functions for Firebase",
+  "description": "Return constellations fulfillment for a Dialogflow agents using Cloud Functions for Firebase",
   "version": "0.1.0",
   "private": true,
   "license": "MIT",
-  "author": "Fred Lin",
+  "author": "Fly Chang",
   "engines": {
     "node": "8"
   },

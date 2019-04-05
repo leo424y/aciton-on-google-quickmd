@@ -152,7 +152,7 @@ const app = dialogflow({debug: true});
 
 
 app.intent('make_name', (conv, {number, number1}) => {
-  conv.close(`棒棒，你的生日是${number}月${number1}日，星座是${fun1(number,number1)}!`);
+  conv.close(`棒棒，${number}月${number1}日生的人，星座是${fun1(number,number1)}!`);
 });
 
 exports.dialogflowFirebaseFulfillment = functions.https.onRequest(app);

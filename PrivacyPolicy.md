@@ -1,4 +1,4 @@
-# TodayInHistory 歷史上的今天 Privacy Policy
+# Your Constellation 你的星座 Privacy Policy
 
 ## What information do you collect? 這個程式會收集什麼資訊?
 
