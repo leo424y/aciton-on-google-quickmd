@@ -1,4 +1,4 @@
-# Your Constellation 你的星座 Privacy Policy
+# VoiceMD 飛速筆記 Privacy Policy
 
 ## What information do you collect? 這個程式會收集什麼資訊?
 
